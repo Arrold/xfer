@@ -1,0 +1,5 @@
+---
+permpath: "/data/www/owncloud"
+ocpath: "/data/www/owncloud"
+htuser: www-root
+htgroup: www-root
